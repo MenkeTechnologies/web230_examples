@@ -6,6 +6,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3",
-    "express-handlebars": "^2.0.1"
+    "express-handlebars": "^5.3.1"
    }
 }
